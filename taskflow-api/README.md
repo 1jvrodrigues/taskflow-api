@@ -1,9 +1,5 @@
+[README.md](https://github.com/user-attachments/files/33846110/README.md)
 # TaskFlow API
-
-![CI](https://github.com/1jvrodrigues/taskflow-api/actions/workflows/ci.yml/badge.svg)
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-brightgreen)
-![MySQL](https://img.shields.io/badge/MySQL-8.4-blue)
 
 API REST para gerenciamento de tarefas, construída com **Java 21**, **Spring Boot** e **MySQL**. O projeto foi pensado para praticar (e demonstrar) as boas práticas de uma API de backend: camadas bem separadas, validação, tratamento padronizado de erros, migrações de banco, testes automatizados, documentação interativa e execução via Docker.
 
